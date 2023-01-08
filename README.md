@@ -1,6 +1,6 @@
 # 友链数据源
 
-前端页面： https://xaoxuu.com/friends/
+前端页面： https://ruizhe.tech/friends/
 
 ## 什么类型的网站可以添加
 
