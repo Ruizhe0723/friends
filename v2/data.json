@@ -1,0 +1,40 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "SkyReeves",
+      "url": "https://img.skyreeves.com/main/avatar96.gif",
+      "avatar": "https://skyreeves.com/",
+      "screenshot": "https://img.skyreeves.com/sites/截屏2022-11-07-19.23.28.png",
+      "description": "垫脚石记号"
+    },
+    {
+      "title": "是非题",
+      "url": "https://www.shifeiti.com",
+      "avatar": "https://other.shifeiti.com/logo/logo.png",
+      "screenshot": "https://pic.rmb.bdstatic.com/bjh/7bdfa8158ebc0a926f1ed6803f239f53.png",
+      "description": "记录生活，热爱跑步，学习 FPGA 中"
+    },
+    {
+      "title": "星日语",
+      "url": "https://weekdaycare.cn",
+      "avatar": "https://api.iconify.design/line-md:sunny-outline-twotone-loop.svg?color=%23eb4600",
+      "screenshot": "https://img.skyreeves.cn/sites/截屏2022-10-28-17.53.23.png",
+      "description": "星语日点灯"
+    },
+    {
+      "title": "xaoxuu",
+      "url": "https://xaoxuu.com",
+      "avatar": "https://bu.dusays.com/2021/09/24/2f74810ceb3d3.png",
+      "screenshot": "https://bu.dusays.com/2022/10/23/63542895cfd29.png",
+      "description": "Stellar开源主题大佬"
+    },
+    {
+      "title": "浮生梦拾记",
+      "url": "http://ruizhe.tech/",
+      "avatar": "https://image-bed-1316467115.cos.ap-beijing.myqcloud.com/night-sky-stars-scenery-comet-hd-wallpaper-1920x1080.jpg",
+      "screenshot": "https://raw.githubusercontent.com/Ruizhe0723/PicGo2/main/img/iShot_2023-01-09_%E4%B8%8A%E5%8D%881.54.07.png",
+      "description": "一只卑微的大学牲"
+    }
+  ]
+}
